@@ -1,0 +1,60 @@
+Here are top_5 locations selected by the amount of films created in 1905:
+1905
+('Mexico', 5)
+1905
+('Orizaba Veracruz Mexico', 6)
+1905
+('Portsmouth Hampshire England UK', 6)
+1905
+('Vevey Canton de Vaud Switzerland', 6)
+1905
+('Brest Finistre France', 7)
+**************************************************
+Here are top_5 locations selected by the amount of films created in 1906:
+1906
+('New York City New York USA', 3)
+1906
+('Veracruz Veracruz Mexico', 3)
+1906
+('Montreuil Seine-Saint-Denis France', 4)
+1906
+('Borneo Malaysia', 5)
+1906
+('Guadalajara Jalisco Mexico', 12)
+**************************************************
+Here are top_5 locations selected by the amount of films created in 1907:
+1907
+('Orizaba Veracruz Mexico', 3)
+1907
+('Weybridge Surrey England UK', 3)
+1907
+('New York City New York USA', 4)
+1907
+('Montreuil Seine-Saint-Denis France', 5)
+1907
+('Panama Canal Panama', 9)
+**************************************************
+Here are top_5 locations selected by the amount of films created in 1908:
+1908
+('Shadyside New Jersey USA', 4)
+1908
+('Stockholm Stockholms ln Sweden', 4)
+1908
+('Fort Lee New Jersey USA', 5)
+1908
+('Little Falls New Jersey USA', 5)
+1908
+('Coytesville New Jersey USA', 7)
+**************************************************
+Here are top_5 locations selected by the amount of films created in 1909:
+1909
+('Cuddebackville New York USA', 10)
+1909
+('Coytesville New Jersey USA', 11)
+1909
+('Edgewater New Jersey USA', 13)
+1909
+('Chicago Illinois USA', 16)
+1909
+('Essanay Studios - 1333-45 W. Argyle Street Uptown Chicago Illinois USA', 16)
+**************************************************
