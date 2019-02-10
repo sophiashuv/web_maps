@@ -36,7 +36,7 @@ Structure description of html file and generated tags:
 7) \<style> - defines styles of different elements of the web-page;
 8) \<div> - sets separate partition of a document.
 
-ConclusionВисновок:
+Conclusion:
 
 in module files "Map_test1905.html", "Map_test1906.html", "Map_test1907.html", "Map_test1908.html",
 "Map_test1909.html" are saved, which demonstrate how the amount of movies during 1905-1909 years has changed.
