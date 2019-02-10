@@ -1,7 +1,6 @@
 import doctest
 import folium
 from geopy.geocoders import Nominatim
-from geopy.extra.rate_limiter import RateLimiter
 
 
 def user_input():
