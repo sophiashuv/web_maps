@@ -1,6 +1,8 @@
-Лаболаторна робота №2 "Web_maps" - readme.txt"
+lab №2 "Web_maps" - readme.txt"
  
-"web_maps":
+ How to Run:
+    Run module maps.py with python 3.6
+Files included in Project "web_maps":
 1) "README.md"
 2) "requirements.txt"
 3) "maps.py"
@@ -13,43 +15,31 @@
 10) "Map_test1908.html"
 11) "Map_test1909.html"
 
+The aim of this project is to present statistical data from files "world.json" and "locations.csv". 
 
-Метою для створення даного модуля є показати статистичні дані з файлів "world.json" та "locations.csv" 
-
-Модуль визначає зміни кількості знятих фільмів в діапазоні 1905 - 1909 років, та виводить дані про
-країни у яких знято найбільшу кількість фільмів у файл "Top_5.txt". Також даний модуль створює вебкарту, що складається 
-з чотирьох шарів: 
-1) "openstreetmap"- політична карта Світу;
-2) "Amount of Movies by year" - Карта, що демонструє кількість фільмів знятих на кожній території впродовж року, 
-введеного користувачем; на цій карті є круги різних кольорів, що демонструють відповідність назви місцевості до 
-кількісті фільмів знятих на ній;
-3) "Movies by year" -  карта що демонструє назви фільмів, знятих на кожній території в продовж року введеного 
-користувачем; на цій карті є маркери, що демонструють назву фільму знятого на конкретній території;
-4) "Population" - карта, що демонструє густоту населення на карті Світу;
+The Module determines the dynamics of filmed movies during 1905 - 1909 years, and outputs data about the countries with
+maximum amount of movies filmed in "Top_5.txt". Also current Module creates a web map which consists of 4 layers:
+1) "openstreetmap"- Politics world map;
+2) "Amount of Movies by year" - the map that demonstrates the amount of movies filmed on each location during the exact 
+year selected by user; this map demonstrates the correspondence of location to the amount of movies filmed in the area.
+3) "Movies by year" -  the map that demonstrates movie titles filmed on each territory during the year selected by user.
+4) "Population" - the map demonstrates the density of population on World map in 2015.
  
-Опис структури html файлу тегів розмітки, які були згенеровані:
+Structure description of html file and generated tags:
 
-1) \<!DOCTYPE html>- визначення типу документа;
+1) \<!DOCTYPE html> - defines the type of document;
+2) \<head> - tells tech information about document;
+3) \<body> - separates the body part of a document;
+4) \<meta> - it defines meta-tags for browsers and searching systems;  
+5) \<script> - describes the script itself. May contain links to other apps; 
+6) \<link> - establishes connection with external document or web-page;
+7) \<style> - defines styles of different elements of the web-page;
+8) \<div> - sets separate partition of a document.
 
-2) \<head> - вказує технічну інформацію про докумкнт;
+ConclusionВисновок:
 
-3) \<meta> - визначає метатеги, які зберігають службову інформацію для браузерів та пошукових систем charset, content, 
-http-equid, name;
-
-4) \<script> - призначений для опису скриптів. Може містити посилання на програму або її текст asyne, 
-type charset defer,src
-
-5) \<link> - встановлює зв'язок із зовнішнім документом href, hreflang, media, rel, sizes,type;
-
-6) \<style> - визначає стилі елементів веб-сторінки type, media, scoped;
-
-7) \<div> - визначає розділ(частину, блок документа)
-
-Висновок:
-
-У модулі збережено файли "Map_test1905.html", "Map_test1906.html", "Map_test1907.html", "Map_test1908.html",
-"Map_test1909.html", які демонструють те, як як змінювалась кількість фільмів впродовж 1905-1909 років. Результат 
-дослідження можна побачити у файлі "Top_5.txt". Файл демонструє динаміку зміни кількості знятих фільмів впродовж 
-обраного періоду. Завдяки дослідженню ми можемо спостерігати зростання популярності кінематографу та територіальне 
-зміщення центрів кіновиробництва.    
- 
+in module files "Map_test1905.html", "Map_test1906.html", "Map_test1907.html", "Map_test1908.html",
+"Map_test1909.html" are saved, which demonstrate how the amount of movies during 1905-1909 years has changed.
+the result of the research made is visible in "Top_5.txt". 
+The file demonstrates the dynamics of the movies filmed during the chosen period.
+We observe the growing popularity of cinematography and the movement of movies producing centres in early XX century.
